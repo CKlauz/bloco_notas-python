@@ -1,0 +1,3 @@
+Customtkinter
+Tkinter
+PIL
